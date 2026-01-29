@@ -23,4 +23,4 @@ El uso de saltos condicionales permite controlar el flujo del programa y tomar d
 
 Un apartado interesante es como el programa al no reconocer numeros negativos y al manejarse a 16 bits los representa en el caso del -5 como 65531, ya que el computador lo entiendo por medio de los binarios 
 
-![alt text](../Investigación/image.png)
+![alt text](image.png)
